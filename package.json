@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Abdul Manan Malik Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metatron020NaNa03/portfolio-abdulManan.git"
+  },
+  "keywords": [
+    "Copyright",
+    "2020"
+  ],
+  "author": "Abdul Manan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metatron020NaNa03/portfolio-abdulManan/issues"
+  },
+  "homepage": "https://github.com/metatron020NaNa03/portfolio-abdulManan#readme"
+}
